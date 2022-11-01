@@ -1,0 +1,8 @@
+int Add () {
+	int a , b , c ;
+	int abc ;
+	b = 19 ;
+	c = ( 19 - a + 10 ) ;
+	do { a = 17 } while ( c == 15 )
+	return b ;
+}
